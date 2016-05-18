@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Item Auto Lister
+## Notes: Eliminates the tediousness of listing your greens.
+## Author: Nick Schorr
+## Version: 0.1
+
+ItemAutoLister.lua
